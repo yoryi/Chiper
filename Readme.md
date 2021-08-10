@@ -18,9 +18,9 @@ npm start
 
 # Screen App
 <br>
-<img heigth="450" src="https://i.ibb.co/hRY7266/Splash.png">
-<img heigth="450" src="https://i.ibb.co/qBh4zHq/dasboard.png">
-<img heigth="450" src="https://i.ibb.co/2KK4P0W/WebView.png">
+<img heigth="200" src="https://i.ibb.co/hRY7266/Splash.png">
+<img heigth="200" src="https://i.ibb.co/qBh4zHq/dasboard.png">
+<img heigth="200" src="https://i.ibb.co/2KK4P0W/WebView.png">
 <br>
 <br>
 
