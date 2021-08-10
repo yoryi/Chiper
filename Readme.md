@@ -31,7 +31,7 @@ Url: https://expo.dev/@yoryi.1995/Chiper
 
 ```
 <br>
-<br>
+
 # Presentation
 
 ```
